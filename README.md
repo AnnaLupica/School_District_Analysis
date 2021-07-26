@@ -13,3 +13,4 @@ The District summary wasn't  much affected. Below are the before and afters
 Before
 
 After
+![](Resources/district_summary_after.JPG)
