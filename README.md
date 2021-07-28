@@ -8,7 +8,7 @@
 
 ### How is the district summary affected?
 
-The District summary wasn't  much affected. Below are the before and afters
+The District summary wasn't  much affected. All scores either didn't change or was lower just slightly. 
 
 Before
 ![](Resources/before_district_summary.png)
