@@ -22,7 +22,7 @@ Before_
 ![](Resources/by_school_before.png)
 
 After
-![](Resources/by_school_after.JPG)
+![](Resources/by_school_after.png)
 
 ### How does replacing the ninth-grade scores affect the following:
 
