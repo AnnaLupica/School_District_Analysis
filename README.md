@@ -34,10 +34,10 @@ Math and reading scores by grade were not affected. 9th grade scores were a tad 
 Scores by school spending:
 Scores by school spending did not change.
 
-Scores by school size
+Scores by school size:  
 Minimal change for scores by school size.
 
-Scores by school type
+Scores by school type:  
 Minimal change fore scores by school type.
 ## Summary
 Due to the percentage of 9th graders at Thomas High School was minimal compared to the group size, the average scores were not significantly affected. The passing percentages did show some significant change for Thomas High School only. 
